@@ -1,0 +1,224 @@
+[11-Jul-2017 19:16:18 UTC] PHP Warning:  require_once(../Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[11-Jul-2017 19:16:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[11-Jul-2017 19:16:45 UTC] PHP Fatal error:  Class 'AnuncioController' not found in /home/adriano/public_html/doapet.com.br/index.php on line 4
+[11-Jul-2017 19:17:00 UTC] PHP Fatal error:  Class 'AnuncioController' not found in /home/adriano/public_html/doapet.com.br/index.php on line 4
+[11-Jul-2017 19:17:02 UTC] PHP Fatal error:  Class 'AnuncioController' not found in /home/adriano/public_html/doapet.com.br/index.php on line 4
+[12-Jul-2017 12:37:04 UTC] PHP Warning:  require_once(../Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 12:37:04 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 12:38:43 UTC] PHP Warning:  require_once(../DoaPetOnline/Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 12:38:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../DoaPetOnline/Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 12:41:23 UTC] PHP Warning:  require_once(../Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 12:41:23 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 12:49:51 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 12:49:51 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 13:03:42 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 13:03:42 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:39:11 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:39:11 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:39:47 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:39:47 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:39:48 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:39:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:40:12 UTC] PHP Warning:  require_once(/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:40:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:40:13 UTC] PHP Warning:  require_once(/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:40:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:40:28 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:40:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:40:29 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:40:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:06 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:07 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:08 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:08 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:08 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:10 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:20 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:20 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:21 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:21 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:21 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:22 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:22 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:22 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:23 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:23 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:24 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:24 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:24 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:25 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:41:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:42:43 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:42:43 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:43:10 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:43:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:45:31 UTC] PHP Warning:  require_once(/../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:45:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:46:20 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 4
+[12-Jul-2017 17:46:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 4
+[12-Jul-2017 17:46:23 UTC] PHP Warning:  require_once(home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 4
+[12-Jul-2017 17:46:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 4
+[12-Jul-2017 17:47:52 UTC] PHP Warning:  require_once(doapet.com.br/Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:47:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'doapet.com.br/Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:47:54 UTC] PHP Warning:  require_once(doapet.com.br/Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:47:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'doapet.com.br/Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:47:55 UTC] PHP Warning:  require_once(doapet.com.br/Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:47:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'doapet.com.br/Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:47:55 UTC] PHP Warning:  require_once(doapet.com.br/Controller/AnuncioController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:47:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'doapet.com.br/Controller/AnuncioController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/index.php on line 2
+[12-Jul-2017 17:48:18 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:48:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:12 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:12 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:13 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:13 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:13 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:13 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:14 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:14 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:49:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:50:19 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:50:19 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:52:06 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:52:06 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:52:07 UTC] PHP Warning:  require_once(../Controller/UtilController.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:52:07 UTC] PHP Fatal error:  require_once(): Failed opening required '../Controller/UtilController.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 3
+[12-Jul-2017 17:52:38 UTC] PHP Warning:  require_once(../DAO/AnuncioDAO.php): failed to open stream: No such file or directory in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 7
+[12-Jul-2017 17:52:38 UTC] PHP Fatal error:  require_once(): Failed opening required '../DAO/AnuncioDAO.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 7
+[12-Jul-2017 18:35:49 UTC] PHP Warning:  Missing argument 1 for AnuncioDAO::CarregarUltimosAnuncios(), called in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 301 and defined in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 423
+[12-Jul-2017 18:35:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 23' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:464
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(464): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(301): AnuncioDAO->CarregarUltimosAnuncios()
+#2 /home/adriano/public_html/doapet.com.br/index.php(6): AnuncioController->CarregarUltimosAnunciosPortal()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 464
+[12-Jul-2017 18:36:29 UTC] PHP Warning:  Missing argument 1 for AnuncioDAO::CarregarUltimosAnuncios(), called in /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php on line 301 and defined in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 423
+[12-Jul-2017 18:36:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 23' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:464
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(464): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(301): AnuncioDAO->CarregarUltimosAnuncios()
+#2 /home/adriano/public_html/doapet.com.br/index.php(6): AnuncioController->CarregarUltimosAnunciosPortal()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 464
+[15-Jul-2017 11:27:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE an.situacao_anuncio = 1' at line 7' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:940
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(940): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(301): AnuncioDAO->CarregarUltimosAnunciosPortal()
+#2 /home/adriano/public_html/doapet.com.br/index.php(5): AnuncioController->CarregarUltimosAnunciosPortal()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 940
+[15-Jul-2017 11:27:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE an.situacao_anuncio = 1' at line 7' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:940
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(940): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(301): AnuncioDAO->CarregarUltimosAnunciosPortal()
+#2 /home/adriano/public_html/doapet.com.br/index.php(5): AnuncioController->CarregarUltimosAnunciosPortal()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 940
+[15-Jul-2017 11:27:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE an.situacao_anuncio = 1' at line 7' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:940
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(940): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(301): AnuncioDAO->CarregarUltimosAnunciosPortal()
+#2 /home/adriano/public_html/doapet.com.br/index.php(5): AnuncioController->CarregarUltimosAnunciosPortal()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 940
+[15-Jul-2017 11:43:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION adriano_doapet_db.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:951
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(951): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(430): AnuncioDAO->ContarAnuncios()
+#2 /home/adriano/public_html/doapet.com.br/index.php(7): AnuncioController->ContarAnuncios()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 951
+[15-Jul-2017 11:43:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION adriano_doapet_db.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:951
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(951): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(430): AnuncioDAO->ContarAnuncios()
+#2 /home/adriano/public_html/doapet.com.br/index.php(7): AnuncioController->ContarAnuncios()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 951
+[15-Jul-2017 12:08:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cod_mensagem' in 'field list'' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:977
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(977): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(442): AnuncioDAO->ContarMensagens()
+#2 /home/adriano/public_html/doapet.com.br/index.php(10): AnuncioController->ContarMensagens()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 977
+[15-Jul-2017 12:08:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cod_mensagem' in 'field list'' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:977
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(977): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(442): AnuncioDAO->ContarMensagens()
+#2 /home/adriano/public_html/doapet.com.br/index.php(10): AnuncioController->ContarMensagens()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 977
+[15-Jul-2017 12:08:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cod_mensagem' in 'field list'' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:977
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(977): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(442): AnuncioDAO->ContarMensagens()
+#2 /home/adriano/public_html/doapet.com.br/index.php(10): AnuncioController->ContarMensagens()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 977
+[15-Jul-2017 12:10:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cod_mensagem' in 'field list'' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:977
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(977): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(442): AnuncioDAO->ContarMensagens()
+#2 /home/adriano/public_html/doapet.com.br/index.php(10): AnuncioController->ContarMensagens()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 977
+[15-Jul-2017 12:10:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cod_mensagem' in 'field list'' in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php:977
+Stack trace:
+#0 /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php(977): PDOStatement->execute()
+#1 /home/adriano/public_html/doapet.com.br/Controller/AnuncioController.php(442): AnuncioDAO->ContarMensagens()
+#2 /home/adriano/public_html/doapet.com.br/index.php(10): AnuncioController->ContarMensagens()
+#3 {main}
+  thrown in /home/adriano/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 977
+[31-Jul-2017 15:09:31 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:09:31 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:27:59 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:27:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:28:05 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:28:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:30:28 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:30:28 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:30:29 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:30:29 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:30:30 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:30:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:31:30 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:31:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:31:32 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:31:32 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:31:33 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:31:33 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:32:19 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:32:19 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:32:20 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:32:20 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:32:22 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:32:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:33:33 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/Controller/UtilController.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:33:33 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/Controller/UtilController.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 2
+[31-Jul-2017 15:34:11 America/Chicago] PHP Warning:  require_once(/home/adriano/public_html/doapet.com.br/DAO/Conexao.class.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 3
+[31-Jul-2017 15:34:11 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/adriano/public_html/doapet.com.br/DAO/Conexao.class.php' (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/DAO/AnuncioDAO.php on line 3
+[18-Oct-2017 06:05:59 America/Chicago] PHP Warning:  include(./site/termos.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 769
+[18-Oct-2017 06:05:59 America/Chicago] PHP Warning:  include(./site/termos.php): failed to open stream: No such file or directory in /home/wmbar465/public_html/doapet.com.br/index.php on line 769
+[18-Oct-2017 06:05:59 America/Chicago] PHP Warning:  include(): Failed opening './site/termos.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/wmbar465/public_html/doapet.com.br/index.php on line 769
