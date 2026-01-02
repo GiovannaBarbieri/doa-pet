@@ -1,0 +1,18 @@
+# Dependências
+/vendor/
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Ambiente / configs sensíveis
+.env
+config.local.php
+
+# SO
+.DS_Store
+Thumbs.db
