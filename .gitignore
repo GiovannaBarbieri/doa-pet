@@ -16,3 +16,8 @@ config.local.php
 # SO
 .DS_Store
 Thumbs.db
+
+error_log
+nbproject/
+.ftpquota
+*.log
