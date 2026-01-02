@@ -16,7 +16,9 @@ Plataforma web para **doação e adoção de pets**, facilitando o cadastro de a
 - MySQL
 
 📌 Status
+
 Concluído
 
 👩‍💻 Autora
+
 Giovanna Barbieri
